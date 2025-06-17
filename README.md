@@ -1,2 +1,6 @@
-# QR_Code_Generator
-Just put any Link or any kind of Plain Text and Generate a QR Code within Seconds
+## QR CODE GENERATOR
+ A simple app, which converts any kind of input into a qr code. Whether you have:
+ - Picture, Doc, Video or any link
+ It simply coverts it into QR CODE.
+
+ 
